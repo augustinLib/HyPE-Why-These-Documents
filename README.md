@@ -1,4 +1,8 @@
-# HyPE
+# HyPE (Hierarchical Category Path-Enhanced Generative Retrieval)
+HyPE enhances explainability by generating hierarchical category paths step-by-step before decoding docid.  
+It employs hierarchical category paths as explanation, progressing from broad to specific semantic categories.
+
+<img src="./asset/figure1.png" width="600">
 
 
 ## Dataset
