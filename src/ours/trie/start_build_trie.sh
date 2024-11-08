@@ -1,0 +1,1 @@
+python ./build_trie.py --input /work/HyPE/dataset/nq/processed_data/title_path.tsv --output ./nq_title_only_trie.pkl --tokenizer_path t5-base
